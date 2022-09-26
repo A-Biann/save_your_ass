@@ -121,3 +121,4 @@ Using our product is quite simple, users just need to buy our product and plug i
 ## Demonstration
 1. [Link 1](https://youtu.be/EHoH52kiYqw)
 2. [Link 2](https://drive.google.com/drive/folders/18BanDFGr8V2MhJQJmjYqbN_WAPSvKNdI?usp=sharing)
+3. [Link 3](https://contest.synopsys.com.tw/2020ARC/WinnerDetail?ID=27)
