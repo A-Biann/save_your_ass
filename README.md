@@ -119,6 +119,6 @@ $ xxd -i generated/pose.tflite > model.h
 Using our product is quite simple, users just need to buy our product and plug in the device. Then our product can starting running. If users want to setup our project from scratch, please refer to [Setup](#setup).
 
 ## Demonstration
-1. [Link 1](https://youtu.be/EHoH52kiYqw)
-2. [Link 2](https://drive.google.com/drive/folders/18BanDFGr8V2MhJQJmjYqbN_WAPSvKNdI?usp=sharing)
-3. [Link 3](https://contest.synopsys.com.tw/2020ARC/WinnerDetail?ID=27)
+1. [Demo Video](https://youtu.be/EHoH52kiYqw)
+2. [App Demo Video](https://drive.google.com/drive/folders/18BanDFGr8V2MhJQJmjYqbN_WAPSvKNdI?usp=sharing)
+3. [Synopsys Contest Poject Page](https://contest.synopsys.com.tw/2020ARC/WinnerDetail?ID=27)
